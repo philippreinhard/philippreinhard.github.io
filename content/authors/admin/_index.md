@@ -138,11 +138,13 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: German
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: English
+    percent: 95
+  - name: Swedish
+    percent: 70
+  - name: French
     percent: 25
 
 # Awards.
@@ -179,4 +181,12 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+🎓 I hold a double degree in Business Informatics and Entrepreneurship and Innovation Management 📚 with a focus on human-centered and sustainable Artificial Intelligence. My academic journey at the Technical University of Darmstadt delved deep into the ethical and sustainable aspects of AI and NLP and its impact on the future of work and society.
+
+👨‍💼 Throughout my professional tenure, I've contributed to IT-driven process optimizations, enterprise-level AI initiatives, and sustainable AI projects. This includes work at renowned organizations such as Campana & Schott and the Institute for Ecological Economy Research (IÖW) in Berlin.
+
+💡 Research Interests: Human-AI Collaboration, Conversational AI, Service Science, Sustainable AI, Digital Work, Agile Organization, IT Project Management, and Software Development.
+
+📝 My contributions include publications at prestigious conferences like HICSS and DESRIST, focusing on sustainable AI practices, hybrid intelligence systems, and value co-creation in AI systems.
+
+Feel free to connect and delve deeper into the realms of technology, innovation, and sustainable AI with me! 🌐
