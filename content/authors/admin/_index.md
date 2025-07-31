@@ -48,37 +48,54 @@ interests:
   - Human-AI Interaction
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Information Technology
+    institution: University of Kassel
+    date_start: 2022-08-01
+    date_end: 2025-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      I plan to submit my thesis at the end of 2025.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      text: 'Explore my research'
+      url: 'https://scholar.google.com/citations?user=3B7dhxEAAAAJ&hl=de&oi=ao'
+  - area: MSc Business Information Systems (Wirtschaftsinformatik)
+    institution: Technical University of Darmstadt
+    date_start: 2019-04-01
+    date_end: 2022-05-01
     summary: |
-      GPA: 3.8/4.0
+      Main areas of research
+      - IT Project and Portfolio Management (PPM, EAM)
+      - Artificial Intelligence, NLP and Ethics
+      - Software & Digital Business
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Projects and seminars
+      - Digital business model innovation for armorphous metals using the value proposition canvas and St. Galler Business Model Navigator
+      - Topic Modelling for analysing the effects of algorithmic control on Uber users
+      - Programming an AI-based risk prediction tool based on scraped employer reviews (Tensorflow)
+  - area: MSc Entrepreneurship and Innovation Management
+    institution: Technical University of Darmstadt
+    date_start: 2021-04-01
+    date_end: 2022-05-01
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Main areas of research:
+      - Technology and Innovation Management (Open Innovation, Design Thinking ...)
+      - Digital Innovation and Marketing Management
+      - Smart Grid and the future of energy
+  - area: Erasmus Exchange in the Field of Management and Economics of Innovation
+    institution: Chalmers University of Technology
+    date_start: 2020-08-01
+    date_end: 2021-05-01
+    summary: |
+      Projects
+      - Design thinking for Actic Fitness Gyms
+      - Stakeholder management for building a bridge to the archipelago
+      - Strategic analysis within the aviation industry
+      - Intellectual property and innovation strategies for AI-enhanced CT scanners
+      - Business Case Development for a sharing platform
+  - area: BSc Business Information Systems (Wirtschaftsinformatik)
+    institution: Technical University of Darmstadt
+    date_start: 2015-10-01
+    date_end: 2019-03-31
+    summary: ...
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -124,18 +141,18 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Soccer
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: soccer
+      - name: Music (Playing guitar)
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: music
+      - name: Hiking and Cycling
         description: ''
         percent: 80
-        icon: camera
+        icon: bike
 
 languages:
   - name: German
@@ -152,7 +169,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: Best Reviewer Award
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
     awarder: Coursera
@@ -163,12 +180,4 @@ awards:
 
 ## About Me
 ---
-🎓 I hold a double degree in Business Informatics and Entrepreneurship and Innovation Management 📚 with a focus on human-centered and sustainable Artificial Intelligence. My academic journey at the Technical University of Darmstadt delved deep into the ethical and sustainable aspects of AI and NLP and its impact on the future of work and society.
-
-👨‍💼 Throughout my professional tenure, I've contributed to IT-driven process optimizations, enterprise-level AI initiatives, and sustainable AI projects. This includes work at renowned organizations such as Campana & Schott and the Institute for Ecological Economy Research (IÖW) in Berlin.
-
-💡 Research Interests: Human-AI Collaboration, Conversational AI, Service Science, Sustainable AI, Digital Work, Agile Organization, IT Project Management, and Software Development.
-
-📝 My contributions include publications at prestigious conferences like HICSS and DESRIST, focusing on sustainable AI practices, hybrid intelligence systems, and value co-creation in AI systems.
-
-Feel free to connect and delve deeper into the realms of technology, innovation, and sustainable AI with me! 🌐
+I hold a double degree in Business Informatics and Entrepreneurship & Innovation Management, specializing in human-centered and sustainable Artificial Intelligence. My research focuses on generative and agentic AI, exploring how these technologies reshape digital work, service science, and human-AI collaboration. Building on experience in IT-driven process optimization and enterprise AI projects with organizations like Campana & Schott and the Institute for Ecological Economy Research, I investigate the design and impact of AI systems on organizations and society.
