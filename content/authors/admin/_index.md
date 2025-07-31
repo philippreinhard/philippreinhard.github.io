@@ -112,24 +112,20 @@ work:
       - Developing AI, GenAI, and Agentic AI solutions as a product owner steering a team of developers
       - Teaching students in engineering and managing AI-based services in cooperation with different companies
       - Mentoring students writing their bachelor and master thesis
-      - Reviewing scientific papers in the field of AI for ACM Computing Surveys, Journal of Service Research, Information Systems Frontiers, Technological Forecasting & Social Change, Electronic Markets  ICIS, HICSS, ECIS, etc.
+      - Reviewing scientific papers in the field of AI for ACM Computing Surveys, Journal of Service Research, Information Systems Frontiers, Technological Forecasting & Social Change, Electronic Markets, ICIS, HICSS, ECIS, etc.
 
       Projects:
-    button:
-      text: 'GenKITS (Generative KI in IT-Systemhäusern)'
-      url: 'http://gen-kits.de/'
-    button:
-      text: 'HISS (Hybrid Intelligence Service Support)'
-      url: 'http://projekt-hiss.de/'
-    button:
-      text: 'DaWeNa-HUB (Datenorientierte Wertschöpfung nachhaltig gestalten)'
-      url: 'https://dawena-hub.de/'
-    button:
-      text: 'ING (Innovationen Nachhaltig Gestalten)'
-      url: 'https://susie-hub.de/'
-    button:
-      text: 'KoDaKIS (Konzeption von Datengetriebenen KI-Services)'
-      url: 'https://www.uni-kassel.de/fb07/ibwl/wirtschaftsinformatik/forschung/forschungsprojekte/kodakis'
+    buttons:
+      - text: 'GenKITS - Generative KI in IT-Systemhäusern'
+        url: 'http://gen-kits.de/'
+      - text: 'HISS - Hybrid Intelligence Service Support'
+        url: 'http://projekt-hiss.de/'
+      - text: 'DaWeNa-HUB - Datenorientierte Wertschöpfung nachhaltig gestalten'
+        url: 'https://dawena-hub.de/'
+      - text: 'ING - Innovationen Nachhaltig Gestalten'
+        url: 'https://susie-hub.de/'
+      - text: 'KoDaKIS - Konzeption von Datengetriebenen KI-Services'
+        url: 'https://www.uni-kassel.de/fb07/ibwl/wirtschaftsinformatik/forschung/forschungsprojekte/kodakis'
   - position: Associated Researcher
     company_name: University of St. Gallen
     company_url: 'https://iwi.unisg.ch/en/chairs/chair-prof-dr-jan-marco-leimeister/'
@@ -141,24 +137,24 @@ work:
       - Research collaborations on agentic AI and multi-agent systems
       - Teaching students in engineering and managing AI-based services in cooperation with different companies
       - Supporting the competence center of generative AI
-    button:
-      text: 'Competence center for GenAI'
-      url: 'https://iwi.unisg.ch/en/competence-center-for-genai/'
+    buttons:
+      - text: 'Competence center for GenAI'
+        url: 'https://iwi.unisg.ch/en/competence-center-for-genai/'
   - position: Student Research Assistant
     company_name: Institut für ökologische Wirtschaftsforschung (IÖW)
     company_url: 'https://www.ioew.de/'
     company_logo: ''
     date_start: 2021-08-01
-    date_end: 2022-04-31
+    date_end: 2022-04-30
     summary: |
-      Contribution to the interdisciplinary project 'SustAIn - Sustainability Index for Artificial Intelligence', funded in the BMU funding initiative AI Lighthouses ('KI Leuchttürme') and carried out together with AlgorithmWatch (network coordination) and the Distributed Artificial Intelligence Lab of the Technische Universität Berlin.
+      Contribution to the interdisciplinary project SustAIn - Sustainability Index for Artificial Intelligence, funded in the BMU funding initiative AI Lighthouses (KI Leuchttürme) and carried out together with AlgorithmWatch (network coordination) and the Distributed Artificial Intelligence Lab of the Technische Universität Berlin.
 
       Responsibilities include:
       - Development of holistic sustainability criteria and indicators for artificial intelligence.
       - Conducting a case study on AI deployment in the smart grid and energy transition.
-    button:
-      text: 'sustAIn – The Sustainability Index for Artificial Intelligence'
-      url: 'https://sustain.algorithmwatch.org/en/'
+    buttons:
+      - text: 'sustAIn – The Sustainability Index for Artificial Intelligence'
+        url: 'https://sustain.algorithmwatch.org/en/'
   - position: Junior Analyst
     company_name: Arthur D. Little
     company_url: 'https://www.adlittle.com/en'
@@ -169,26 +165,16 @@ work:
       The Smart City Market in Germany 2021-2026 in cooperation with eco - Verband der Internetwirtschaft e.V. incl.: 
       - Analysis of individual smart city segments in terms of new use cases, trends, stakeholders and forecast growth. 
       - Qualitative and quantitative assessment of sustainability effects of different Smart City use cases (e.g. Smart Lighting, Smart Parking, Smart Buildings etc.) 
-      - Elaboration of case studies of international as well as national smart cities (e.g. Los Angeles, Copenhagen) and recommendations for action for german smart cities 
+      - Elaboration of case studies of international as well as national smart cities (e.g. Los Angeles, Copenhagen) and recommendations for action for German smart cities 
 
       Support of the strategic sales of a large German telecommunication provider in the context of fiber optic rollout: 
       - Research of new broadband subsidies; preparation and optimization of research processes of the sales department; development of a guideline 
       - Preparation, aggregation and analysis of geographic data such as broadband clusters and network routes using QGIS 
       - Development of a comprehensive visual dashboard in MS Excel for strategic assessment of potentials (incl. aggregation of different data sets and calculation of KPIs)
-    button:
-      text: 'Studie: Der Smart-City-Markt in Deutschland 2021-2026'
-      url: 'https://www.eco.de/themen/internet-of-things/studien/studie-der-smart-city-markt-in-deutschland-2021-2026/'
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    buttons:
+      - text: 'Studie - Der Smart-City-Markt in Deutschland 2021-2026'
+        url: 'https://www.eco.de/themen/internet-of-things/studien/studie-der-smart-city-markt-in-deutschland-2021-2026/'
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
