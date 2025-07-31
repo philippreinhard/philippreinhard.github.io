@@ -80,7 +80,7 @@ education:
     date_end: 2022-05-01
     summary: |
       Main areas of research:
-      - Technology and Innovation Management (Open Innovation, Design Thinking ...)
+      - Technology and Innovation Management
       - Digital Innovation and Marketing Management
       - Smart Grid and the future of energy
   - area: Erasmus Exchange in the Field of Management and Economics of Innovation
@@ -144,28 +144,40 @@ work:
     button:
       text: 'Competence center for GenAI'
       url: 'https://iwi.unisg.ch/en/competence-center-for-genai/'
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+  - position: Student Research Assistant
+    company_name: Institut für ökologische Wirtschaftsforschung (IÖW)
+    company_url: 'https://www.ioew.de/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-08-01
+    date_end: 2022-04-31
     summary: |
+      Contribution to the interdisciplinary project "SustAIn - Sustainability Index for Artificial Intelligence", funded in the BMU funding initiative AI Lighthouses ("KI Leuchttürme") and carried out together with AlgorithmWatch (network coordination) and the Distributed Artificial Intelligence Lab of the Technische Universität Berlin.
+
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Development of holistic sustainability criteria and indicators for artificial intelligence.
+      - Conducting a case study on AI deployment in the smart grid and energy transition.
+    button:
+      text: 'sustAIn – The Sustainability Index for Artificial Intelligence'
+      url: 'https://sustain.algorithmwatch.org/en/'
+  - position: Junior Analyst
+    company_name: Arthur D. Little
+    company_url: 'https://www.adlittle.com/en'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-03-01
+    date_end: 2021-07-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      "The Smart City Market in Germany 2021-2026" in cooperation with eco - Verband der Internetwirtschaft e.V. incl.: 
+      - Analysis of individual smart city segments in terms of new use cases, trends, stakeholders and forecast growth. 
+      - Qualitative and quantitative assessment of sustainability effects of different Smart City use cases (e.g. Smart Lighting, Smart Parking, Smart Buildings etc.) 
+      - Elaboration of case studies of international as well as national smart cities (e.g. Los Angeles, Copenhagen) and recommendations for action for german smart cities 
+
+      Support of the strategic sales of a large German telecommunication provider in the context of fiber optic rollout: 
+      - Research of new broadband subsidies; preparation and optimization of research processes of the sales department; development of a guideline 
+      - Preparation, aggregation and analysis of geographic data such as broadband clusters and network routes using QGIS 
+      - Development of a comprehensive visual dashboard in MS Excel for strategic assessment of potentials (incl. aggregation of different data sets and calculation of KPIs)
+    button:
+      text: 'Studie: Der Smart-City-Markt in Deutschland 2021-2026'
+      url: 'https://www.eco.de/themen/internet-of-things/studien/studie-der-smart-city-markt-in-deutschland-2021-2026/'
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
