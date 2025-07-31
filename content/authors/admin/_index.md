@@ -95,17 +95,55 @@ education:
     institution: Technical University of Darmstadt
     date_start: 2015-10-01
     date_end: 2019-03-31
-    summary: ...
+    summary: 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Research Associate
+    company_name: University of Kassel
+    company_url: 'https://www.uni-kassel.de/fb07/ibwl/wirtschaftsinformatik.html'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-08-01
     date_end: ''
     summary: |2-
       Responsibilities include:
+      - Operating and managing research projects on AI, Generative AI, and Agentic AI
+      - Developing AI, GenAI, and Agentic AI solutions as a product owner steering a team of developers
+      - Teaching students in engineering and managing AI-based services in cooperation with different companies
+      - Mentoring students writing their bachelor and master thesis
+      - Reviewing scientific papers in the field of AI for ACM Computing Surveys, Journal of Service Research, Information Systems Frontiers, Technological Forecasting & Social Change, Electronic Markets  ICIS, HICSS, ECIS, etc.
+  - position: Associated Researcher
+    company_name: University of St. Gallen
+    company_url: 'https://iwi.unisg.ch/en/chairs/chair-prof-dr-jan-marco-leimeister/'
+    company_logo: ''
+    date_start: 2022-08-01
+    date_end: ''
+    summary: |
+      Responsibilities include:
+      - Research collaborations on agentic AI and multi-agent systems
+      - Teaching students in engineering and managing AI-based services in cooperation with different companies
+      - Supporting the competence center of generative AI
+    button:
+      text: 'Competence center for GenAI'
+      url: 'https://iwi.unisg.ch/en/competence-center-for-genai/'
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Backend Software Engineer
