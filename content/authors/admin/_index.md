@@ -46,8 +46,8 @@ interests:
   - Agentic AI and Generative AI
   - Multi-Agent Systems
   - Human-AI Interaction
-  - GenAI Augmentation and the Future of Work
-  - Explainable Artificial Intelligence (XAI)
+  - GenAI Augmentation / Future of Work
+  - Explainable Artificial Intelligence
   - Process Mining 
 
 education:
@@ -115,17 +115,18 @@ work:
       - Reviewing scientific papers in the field of AI for ACM Computing Surveys, Journal of Service Research, Information Systems Frontiers, Technological Forecasting & Social Change, Electronic Markets, ICIS, HICSS, ECIS, etc.
 
       Projects:
-    buttons:
-      - title: 'GenKITS - Generative KI in IT-Systemhäusern'
-        url: 'http://gen-kits.de/'
-      - title: 'HISS - Hybrid Intelligence Service Support'
-        url: 'http://projekt-hiss.de/'
-      - title: 'DaWeNa-HUB - Datenorientierte Wertschöpfung nachhaltig gestalten'
-        url: 'https://dawena-hub.de/'
-      - title: 'ING - Innovationen Nachhaltig Gestalten'
-        url: 'https://susie-hub.de/'
-      - title: 'KoDaKIS - Konzeption von Datengetriebenen KI-Services'
-        url: 'https://www.uni-kassel.de/fb07/ibwl/wirtschaftsinformatik/forschung/forschungsprojekte/kodakis'
+    content:
+      buttons:
+        - title: 'GenKITS - Generative KI in IT-Systemhäusern'
+          url: 'http://gen-kits.de/'
+        - title: 'HISS - Hybrid Intelligence Service Support'
+          url: 'http://projekt-hiss.de/'
+        - title: 'DaWeNa-HUB - Datenorientierte Wertschöpfung nachhaltig gestalten'
+          url: 'https://dawena-hub.de/'
+        - title: 'ING - Innovationen Nachhaltig Gestalten'
+          url: 'https://susie-hub.de/'
+        - title: 'KoDaKIS - Konzeption von Datengetriebenen KI-Services'
+          url: 'https://www.uni-kassel.de/fb07/ibwl/wirtschaftsinformatik/forschung/forschungsprojekte/kodakis'
   - position: Associated Researcher
     company_name: University of St. Gallen
     company_url: 'https://iwi.unisg.ch/en/chairs/chair-prof-dr-jan-marco-leimeister/'
