@@ -1,39 +1,38 @@
 ---
-title: From AI to Agentic AI
+title: Agentic AI - The Future of Document Intelligence
 
-event: Hugo Blox Builder Conference
+event: Sales Partner Days of Starke+Reichert
 event_url: 
 
-location: Hugo Blox Builder HQ
+location: Göbel's Hotel Rodenberg
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Heinz-Meise-Str. 96-98
+  city: Rotenburg a.d. Fulda
+  postcode: '36199'
+  country: Germany
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: What does a document management system look like that not only digitizes but also actively thinks along, analyzes, and takes action?
+abstract: 'At the Partner Days of Starke + Reichert GmbH & Co. KG, Mahei M. Li, David Sonnabend, and Philipp Reinhard presented the University of Kassel’s project GenKITs to around 80 partners of the Starke-DMS network. The presentation outlined the evolution from static single agents to dynamic multi-agent systems capable of autonomous cooperation and decision-making. Using deep user interviews, co-creative workshops, and future research methods such as forecasting and backcasting, the team developed a vision for the future of document management. Key highlights included an agentic AI landscape, practical examples such as DocClassifier and DocAnalyst, and discussions of design challenges for agentic systems. The main takeaways emphasized the transition from GenAI to AgenticAI, from use cases to agents as co-workers, from problem-solution pairs to prompts, and from single agents to multi-agent systems while shaping a forward-looking vision of document management. The project is supported by the Hessian Ministry for Digitalization and Innovation and WIBank.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
+date: '2025-05-26T13:00:00Z'
 date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: ''
 
 authors:
   - admin
 
-tags: []
+tags: [Agentic AI, Multi-Agent Systems, Generative AI, Document Intelligence]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 #links:
@@ -41,10 +40,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
+url_code: ''
 url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+url_slides: ''
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -58,18 +57,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - example
+projects: []
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
