@@ -54,8 +54,7 @@ education:
     institution: University of Kassel
     date_start: 2022-08-01
     date_end: 2025-12-31
-    summary: |
-      
+    #summary: |
     button:
       text: 'Explore my research'
       url: 'https://scholar.google.com/citations?user=3B7dhxEAAAAJ&hl=de&oi=ao'
@@ -79,7 +78,6 @@ education:
       - IT Project and Portfolio Management (PPM, EAM)
       - Artificial Intelligence, NLP and Ethics
       - Software & Digital Business
-
       Projects and seminars:
       - Digital business model innovation for armorphous metals using the value proposition canvas and St. Galler Business Model Navigator™ 
       - Topic Modelling for analysing the effects of algorithmic control on Uber users
@@ -88,8 +86,7 @@ education:
     institution: Technical University of Darmstadt
     date_start: 2015-10-01
     date_end: 2019-03-31
-    summary: |
-      
+    #summary: |   
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
