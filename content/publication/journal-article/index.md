@@ -38,7 +38,7 @@ summary: Highlights
 tags:
 - Artificial Intelligence
 - Sustainability
-featured: false
+featured: true
 
 # links:
 # - name: ""
