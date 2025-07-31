@@ -44,41 +44,52 @@ profiles:
 
 interests:
   - Agentic AI and Generative AI
+  - Multi Agent Systems
   - Human-AI Interaction
   - Conversational AI
+  - Human-AI Delegation
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Information Technology
+    institution: University of Kassel
+    date_start: 2022-08-01
+    date_end: 2025-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    button:
+      text: 'Explore my research'
+      url: 'https://scholar.google.com/citations?user=3B7dhxEAAAAJ&hl=de&oi=ao'
+  - area: Erasmus Exchange in the Field of Management and Economics of Innovation | Entrepreneurship and Business Design 
+    institution: Chalmers University of Technology
+    date_start: 2020-08-01
+    date_end: 2021-05-01
+    summary: |
+      Projects:
+      - Design thinking for Actic Fitness Gyms
+      - Stakeholder management for building a bridge to the archipelago
+      - Strategic analysis within the aviation industry
+      - Intellectual property and innovation strategies for AI-enhanced CT scanners
+      - Business Case Development for a sharing platform
+  - area: MSc Business Information Systems (Wirtschaftsinformatik)
+    institution: Technical University of Darmstadt
+    date_start: 2019-04-01
+    date_end: 2022-05-01
+    summary: |
+      Main areas of research:
+      - IT Project and Portfolio Management (PPM, EAM)
+      - Artificial Intelligence, NLP and Ethics
+      - Software & Digital Business
+
+      Projects and seminars:
+      - Digital business model innovation for armorphous metals using the value proposition canvas and St. Galler Business Model Navigator™ 
+      - Topic Modelling for analysing the effects of algorithmic control on Uber users
+      - Programming an AI-based risk prediction tool based on scraped employer reviews (Tensorflow)
+  - area: BSc Business Information Systems (Wirtschaftsinformatik)
+    institution: Technical University of Darmstadt
+    date_start: 2015-10-01
+    date_end: 2019-03-31
+    summary: |
+      
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
