@@ -44,8 +44,11 @@ profiles:
 
 interests:
   - Agentic AI and Generative AI
-  - Multi Agent Systems
+  - Multi-Agent Systems
   - Human-AI Interaction
+  - GenAI Augmentation and the Future of Work
+  - Explainable Artificial Intelligence (XAI)
+  - Process Mining 
 
 education:
   - area: PhD Information Technology
@@ -103,13 +106,30 @@ work:
     company_logo: ''
     date_start: 2022-08-01
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Operating and managing research projects on AI, Generative AI, and Agentic AI
       - Developing AI, GenAI, and Agentic AI solutions as a product owner steering a team of developers
       - Teaching students in engineering and managing AI-based services in cooperation with different companies
       - Mentoring students writing their bachelor and master thesis
       - Reviewing scientific papers in the field of AI for ACM Computing Surveys, Journal of Service Research, Information Systems Frontiers, Technological Forecasting & Social Change, Electronic Markets  ICIS, HICSS, ECIS, etc.
+
+      Projects:
+    button:
+      text: 'GenKITS (Generative KI in IT-Systemhäusern)'
+      url: 'http://gen-kits.de/'
+    button:
+      text: 'HISS (Hybrid Intelligence Service Support)'
+      url: 'http://projekt-hiss.de/'
+    button:
+      text: 'DaWeNa-HUB (Datenorientierte Wertschöpfung nachhaltig gestalten)'
+      url: 'https://dawena-hub.de/'
+    button:
+      text: 'ING (Innovationen Nachhaltig Gestalten)'
+      url: 'https://susie-hub.de/'
+    button:
+      text: 'KoDaKIS (Konzeption von Datengetriebenen KI-Services)'
+      url: 'https://www.uni-kassel.de/fb07/ibwl/wirtschaftsinformatik/forschung/forschungsprojekte/kodakis'
   - position: Associated Researcher
     company_name: University of St. Gallen
     company_url: 'https://iwi.unisg.ch/en/chairs/chair-prof-dr-jan-marco-leimeister/'
