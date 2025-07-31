@@ -46,7 +46,7 @@ interests:
   - Agentic AI and Generative AI
   - Multi-Agent Systems
   - Human-AI Interaction
-  - GenAI Augmentation / Future of Work
+  - Future of Work
   - Explainable Artificial Intelligence
   - Process Mining 
 
