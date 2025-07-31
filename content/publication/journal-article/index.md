@@ -27,12 +27,7 @@ publication_short: ""
 abstract: The increased use of Artificial intelligence systems (AI systems) is associated with multifaceted social, environmental, and economic consequences. These include nontransparent decision-making processes, discrimination, increasing inequalities, rising energy consumption and greenhouse gas emissions in AI model development and application, and an increasing concentration of economic power. By considering the multidimensionality of sustainability, this paper takes steps toward substantiating the call for an overarching perspective on ‘sustainable AI.’ It presents the Sustainability Criteria and Indicators for Artificial Intelligence Systems (SCAIS) Framework, an assessment framework that contains a set of 19 sustainability criteria for sustainable AI and 67 indicators that are based on the results of a critical literature review, and expert workshops. Its interdisciplinary approach contributes a unique holistic perspective to facilitate and structure the discourse on sustainable AI. Further, it provides a concrete assessment framework that lays the foundation for developing standards and tools to support the conscious development and application of AI systems.
 
 # Summary. An optional shortened abstract.
-summary: | 
-  Highlights
-  - Reviews current literature on the social, economic, and environmental impacts of AI.
-  - Substantiates the call for an overarching perspective on sustainable AI.
-  - Develops sustainability criteria and indicators for AI systems.
-  - Introduces the SCAIS framework as an assessment approach for sustainable AI.
+summary: This paper reviews the impacts of AI, proposes sustainability criteria, and introduces the SCAIS framework to assess AI systems from a comprehensive sustainability perspective.
 
 tags:
 - Artificial Intelligence
