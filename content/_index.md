@@ -32,9 +32,9 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '🚀 My Research'
       subtitle: ''
-      text: |-
+      text: |
         I am a researcher exploring how Artificial Intelligence—particularly Generative AI and Agentic AI—reshapes service work and human–AI collaboration. My work bridges sustainability, hybrid intelligence, and augmentation in organizational contexts. Building on studies of sustainability criteria for AI systems, I investigate how AI can be designed to empower employees rather than replace them, emphasizing augmentation over automation. Recent projects have developed frameworks and architectures for GenAI in customer support, delegation systems, and multi-agent collaboration, examining their effects on employee performance, learning, and service routines.
     design:
       columns: '1'

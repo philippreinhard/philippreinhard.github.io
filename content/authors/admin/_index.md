@@ -115,18 +115,17 @@ work:
       - Reviewing scientific papers in the field of AI for ACM Computing Surveys, Journal of Service Research, Information Systems Frontiers, Technological Forecasting & Social Change, Electronic Markets, ICIS, HICSS, ECIS, etc.
 
       Projects:
-    content:
-      buttons:
-        - text: 'GenKITS - Generative KI in IT-Systemhäusern'
-          url: 'http://gen-kits.de/'
-        - text: 'HISS - Hybrid Intelligence Service Support'
-          url: 'http://projekt-hiss.de/'
-        - text: 'DaWeNa-HUB - Datenorientierte Wertschöpfung nachhaltig gestalten'
-          url: 'https://dawena-hub.de/'
-        - text: 'ING - Innovationen Nachhaltig Gestalten'
-          url: 'https://susie-hub.de/'
-        - text: 'KoDaKIS - Konzeption von Datengetriebenen KI-Services'
-          url: 'https://www.uni-kassel.de/fb07/ibwl/wirtschaftsinformatik/forschung/forschungsprojekte/kodakis'
+    buttons:
+      - text: 'GenKITS - Generative KI in IT-Systemhäusern'
+        url: 'http://gen-kits.de/'
+      - text: 'HISS - Hybrid Intelligence Service Support'
+        url: 'http://projekt-hiss.de/'
+      - text: 'DaWeNa-HUB - Datenorientierte Wertschöpfung nachhaltig gestalten'
+        url: 'https://dawena-hub.de/'
+      - text: 'ING - Innovationen Nachhaltig Gestalten'
+        url: 'https://susie-hub.de/'
+      - text: 'KoDaKIS - Konzeption von Datengetriebenen KI-Services'
+        url: 'https://www.uni-kassel.de/fb07/ibwl/wirtschaftsinformatik/forschung/forschungsprojekte/kodakis'
   - position: Associated Researcher
     company_name: University of St. Gallen
     company_url: 'https://iwi.unisg.ch/en/chairs/chair-prof-dr-jan-marco-leimeister/'
