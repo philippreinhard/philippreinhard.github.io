@@ -1,7 +1,7 @@
 ---
 title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+date: 2024-09-01
+external_link: http://gen-kits.de/
 tags:
   - Generative AI
   - Agentic AI
