@@ -117,15 +117,15 @@ work:
       Projects:
     content:
       buttons:
-        - title: 'GenKITS - Generative KI in IT-Systemhäusern'
+        - text: 'GenKITS - Generative KI in IT-Systemhäusern'
           url: 'http://gen-kits.de/'
-        - title: 'HISS - Hybrid Intelligence Service Support'
+        - text: 'HISS - Hybrid Intelligence Service Support'
           url: 'http://projekt-hiss.de/'
-        - title: 'DaWeNa-HUB - Datenorientierte Wertschöpfung nachhaltig gestalten'
+        - text: 'DaWeNa-HUB - Datenorientierte Wertschöpfung nachhaltig gestalten'
           url: 'https://dawena-hub.de/'
-        - title: 'ING - Innovationen Nachhaltig Gestalten'
+        - text: 'ING - Innovationen Nachhaltig Gestalten'
           url: 'https://susie-hub.de/'
-        - title: 'KoDaKIS - Konzeption von Datengetriebenen KI-Services'
+        - text: 'KoDaKIS - Konzeption von Datengetriebenen KI-Services'
           url: 'https://www.uni-kassel.de/fb07/ibwl/wirtschaftsinformatik/forschung/forschungsprojekte/kodakis'
   - position: Associated Researcher
     company_name: University of St. Gallen
@@ -139,7 +139,7 @@ work:
       - Teaching students in engineering and managing AI-based services in cooperation with different companies
       - Supporting the competence center of generative AI
     button:
-      title: 'Competence center for GenAI'
+      text: 'Competence center for GenAI'
       url: 'https://iwi.unisg.ch/en/competence-center-for-genai/'
   - position: Student Research Assistant
     company_name: Institut für ökologische Wirtschaftsforschung (IÖW)
