@@ -1,5 +1,5 @@
 ---
-title: scikit-learn
+title: sustAIn
 date: 2023-10-26
 external_link: https://sustain.algorithmwatch.org/
 tags:

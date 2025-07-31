@@ -1,5 +1,5 @@
 ---
-title: PyTorch
+title: GenKITs
 date: 2024-09-01
 external_link: http://gen-kits.de/
 tags:
@@ -9,6 +9,6 @@ tags:
   - Document Intelligence
 ---
 
-The GenKITS project leverages large language models and generative AI to develop agents that support and automate complex business processes. A GPT-based orchestrator enables employees to create AI applications in a low-code/no-code environment using prompt engineering and conversational design, fostering both process optimization and AI literacy. The solution, which also allows API integration with tools like ChatGPT, is provided as open-source technology.
+The GenKITS project leverages large language models and generative AI to develop agents that support and automate complex business processes. A GPT-based orchestrator enables employees to create AI applications in a low-code-no-code environment using prompt engineering and conversational design, fostering both process optimization and AI literacy. The solution, which also allows API integration with tools like ChatGPT, is provided as open-source technology.
 
 <!--more-->
