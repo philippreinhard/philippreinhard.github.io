@@ -1,11 +1,12 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Hybrid Intelligence Service Support (HISS)
+date: 2023-12-31
+external_link: https://projekt-hiss.de/
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Hybrid Intelligence
+  - Generative AI
+  - Augmentation
+  - Large Language Models
 ---
 
 Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
