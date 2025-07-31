@@ -8,8 +8,6 @@ authors:
 - Sarah Oeste-Reiss
 - Jan Marco Leimeister
 publishDate: '2025-07-31T11:06:18.821562Z'
-publication_types:
-- article-journal
 date: "2024-01-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.is.2023.102311"
 
@@ -57,12 +55,12 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
+projects: ""
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: 
+slides:  ""
 ---
