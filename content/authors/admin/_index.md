@@ -116,15 +116,15 @@ work:
 
       Projects:
     buttons:
-      - text: 'GenKITS - Generative KI in IT-Systemhäusern'
+      - title: 'GenKITS - Generative KI in IT-Systemhäusern'
         url: 'http://gen-kits.de/'
-      - text: 'HISS - Hybrid Intelligence Service Support'
+      - title: 'HISS - Hybrid Intelligence Service Support'
         url: 'http://projekt-hiss.de/'
-      - text: 'DaWeNa-HUB - Datenorientierte Wertschöpfung nachhaltig gestalten'
+      - title: 'DaWeNa-HUB - Datenorientierte Wertschöpfung nachhaltig gestalten'
         url: 'https://dawena-hub.de/'
-      - text: 'ING - Innovationen Nachhaltig Gestalten'
+      - title: 'ING - Innovationen Nachhaltig Gestalten'
         url: 'https://susie-hub.de/'
-      - text: 'KoDaKIS - Konzeption von Datengetriebenen KI-Services'
+      - title: 'KoDaKIS - Konzeption von Datengetriebenen KI-Services'
         url: 'https://www.uni-kassel.de/fb07/ibwl/wirtschaftsinformatik/forschung/forschungsprojekte/kodakis'
   - position: Associated Researcher
     company_name: University of St. Gallen
@@ -137,9 +137,9 @@ work:
       - Research collaborations on agentic AI and multi-agent systems
       - Teaching students in engineering and managing AI-based services in cooperation with different companies
       - Supporting the competence center of generative AI
-    buttons:
-      - text: 'Competence center for GenAI'
-        url: 'https://iwi.unisg.ch/en/competence-center-for-genai/'
+    button:
+      title: 'Competence center for GenAI'
+      url: 'https://iwi.unisg.ch/en/competence-center-for-genai/'
   - position: Student Research Assistant
     company_name: Institut für ökologische Wirtschaftsforschung (IÖW)
     company_url: 'https://www.ioew.de/'
@@ -152,9 +152,9 @@ work:
       Responsibilities include:
       - Development of holistic sustainability criteria and indicators for artificial intelligence.
       - Conducting a case study on AI deployment in the smart grid and energy transition.
-    buttons:
-      - text: 'sustAIn – The Sustainability Index for Artificial Intelligence'
-        url: 'https://sustain.algorithmwatch.org/en/'
+    button:
+      text: 'sustAIn – The Sustainability Index for Artificial Intelligence'
+      url: 'https://sustain.algorithmwatch.org/en/'
   - position: Junior Analyst
     company_name: Arthur D. Little
     company_url: 'https://www.adlittle.com/en'
@@ -171,10 +171,9 @@ work:
       - Research of new broadband subsidies; preparation and optimization of research processes of the sales department; development of a guideline 
       - Preparation, aggregation and analysis of geographic data such as broadband clusters and network routes using QGIS 
       - Development of a comprehensive visual dashboard in MS Excel for strategic assessment of potentials (incl. aggregation of different data sets and calculation of KPIs)
-    buttons:
-      - text: 'Studie - Der Smart-City-Markt in Deutschland 2021-2026'
-        url: 'https://www.eco.de/themen/internet-of-things/studien/studie-der-smart-city-markt-in-deutschland-2021-2026/'
-
+    button:
+      text: 'Studie - Der Smart-City-Markt in Deutschland 2021-2026'
+      url: 'https://www.eco.de/themen/internet-of-things/studien/studie-der-smart-city-markt-in-deutschland-2021-2026/'
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
