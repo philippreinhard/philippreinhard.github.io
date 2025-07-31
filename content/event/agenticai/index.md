@@ -1,10 +1,10 @@
 ---
 title: From AI to Agentic AI
 
-event: Hallenbad Ost
+event: Customer Meeting
 event_url: 
 
-location: Hugo Blox Builder HQ
+location: Hallenbad Ost Kassel
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -13,7 +13,7 @@ location: Hugo Blox Builder HQ
 #  country: United States
 
 summary: A talk about the evolution and potential AI - from traditional ML to agentic AI solution!
-abstract: ''
+abstract: A talk about the evolution and potential AI - from traditional ML to agentic AI solution!
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -33,7 +33,7 @@ tags: [Agentic AI, Multi-Agent Systems, Generative AI]
 featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'DALL-E'
   focal_point: Right
 
 #links:
@@ -41,10 +41,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+#url_code: ''
+#url_pdf: ''
+#url_slides: ''
+#url_video: ''
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
