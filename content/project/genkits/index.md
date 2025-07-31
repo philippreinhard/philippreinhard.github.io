@@ -1,5 +1,5 @@
 ---
-title: GenKITs
+title: Generative KI in IT-Systemhäusern (GenKITs)
 date: 2024-09-01
 external_link: http://gen-kits.de/
 tags:

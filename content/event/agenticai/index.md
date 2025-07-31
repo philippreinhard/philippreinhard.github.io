@@ -17,8 +17,8 @@ abstract: A talk about the evolution and potential AI - from traditional ML to a
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-09-04T13:00:00Z'
-date_end: '2030-09-04T15:00:00Z'
+date: '2025-09-04T13:00:00Z'
+date_end: '2025-09-04T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
