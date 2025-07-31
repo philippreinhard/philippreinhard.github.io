@@ -1,7 +1,6 @@
 ---
 title: "Broadening the perspective for sustainable artificial intelligence: sustainability criteria and indicators for artificial intelligence systems"
 authors:
-- admin
 - Friederike Rohde
 - Josephin Wagner
 - Andreas Meyer
