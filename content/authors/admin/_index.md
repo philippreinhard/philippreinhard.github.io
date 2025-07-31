@@ -151,7 +151,7 @@ work:
     date_start: 2021-08-01
     date_end: 2022-04-31
     summary: |
-      Contribution to the interdisciplinary project "SustAIn - Sustainability Index for Artificial Intelligence", funded in the BMU funding initiative AI Lighthouses ("KI Leuchttürme") and carried out together with AlgorithmWatch (network coordination) and the Distributed Artificial Intelligence Lab of the Technische Universität Berlin.
+      Contribution to the interdisciplinary project 'SustAIn - Sustainability Index for Artificial Intelligence', funded in the BMU funding initiative AI Lighthouses ('KI Leuchttürme') and carried out together with AlgorithmWatch (network coordination) and the Distributed Artificial Intelligence Lab of the Technische Universität Berlin.
 
       Responsibilities include:
       - Development of holistic sustainability criteria and indicators for artificial intelligence.
@@ -166,7 +166,7 @@ work:
     date_start: 2021-03-01
     date_end: 2021-07-31
     summary: |
-      "The Smart City Market in Germany 2021-2026" in cooperation with eco - Verband der Internetwirtschaft e.V. incl.: 
+      The Smart City Market in Germany 2021-2026 in cooperation with eco - Verband der Internetwirtschaft e.V. incl.: 
       - Analysis of individual smart city segments in terms of new use cases, trends, stakeholders and forecast growth. 
       - Qualitative and quantitative assessment of sustainability effects of different Smart City use cases (e.g. Smart Lighting, Smart Parking, Smart Buildings etc.) 
       - Elaboration of case studies of international as well as national smart cities (e.g. Los Angeles, Copenhagen) and recommendations for action for german smart cities 
