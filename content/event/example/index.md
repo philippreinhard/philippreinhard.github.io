@@ -1,8 +1,8 @@
 ---
-title: Example Talk
+title: From AI to Agentic AI
 
 event: Hugo Blox Builder Conference
-event_url: https://example.org
+event_url: 
 
 location: Hugo Blox Builder HQ
 address:
