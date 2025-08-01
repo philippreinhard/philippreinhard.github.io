@@ -2,7 +2,7 @@
 title: From AI to Agentic AI
 
 event: Customer Meeting
-event_url: 
+event_url: ''
 
 location: Hallenbad Ost Kassel
 #address:
